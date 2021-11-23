@@ -1,11 +1,13 @@
 #include<stdio.h>
 #include<string.h>
+#include "gamecd.h"
 int main()
 {
     int n,index,count=9,i=0;
     char str1[50],str2[50],str3[50],str4[50];
     char input[]={'B','O','L','L','Y','W','O','O','D'};
-    printf("select any no. between 1 to 9:\n");
+    menu();
+    printf("\nselect any no. between 1 to 9:\n");
     scanf("%d",&n);
     char s1[25]="Sidharth",s2[25]="Kiara",s3[25]="Ranjha",s4[25]="Shershaah";
     char s5[25]="Shahrukh",s6[25]="Kajol",s7[25]="Tujhe Dekha To",s8[25]="DDLJ";
@@ -45,8 +47,7 @@ int main()
           i++;
         }
                 }
-           count--;
-
+                count--;
         break;
     case 2:
             for(index=0;input[i]!='\0';index++)
