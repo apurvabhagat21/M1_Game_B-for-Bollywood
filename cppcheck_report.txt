@@ -1,0 +1,56 @@
+Implementation/.vscode/gamecd.c:28:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+Implementation/.vscode/gamecd.c:57:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+Implementation/.vscode/gamecd.c:86:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+Implementation/.vscode/gamecd.c:115:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+Implementation/.vscode/gamecd.c:144:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+Implementation/.vscode/gamecd.c:173:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+Implementation/.vscode/gamecd.c:202:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+Implementation/.vscode/gamecd.c:231:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+Implementation/.vscode/gamecd.c:260:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+Implementation/.vscode/gamecd.c:50:22: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+                count--;
+                     ^
+Implementation/.vscode/gamecd.c:79:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+Implementation/.vscode/gamecd.c:108:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+Implementation/.vscode/gamecd.c:137:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+Implementation/.vscode/gamecd.c:166:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+Implementation/.vscode/gamecd.c:195:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+Implementation/.vscode/gamecd.c:224:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+Implementation/.vscode/gamecd.c:253:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+Implementation/.vscode/gamecd.c:282:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]
+
