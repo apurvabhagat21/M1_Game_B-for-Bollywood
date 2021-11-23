@@ -82,5 +82,8 @@ Implementation/.vscode/test/testgamecd.c:76:9: warning: scanf() without field wi
 Implementation/.vscode/test/testgamecd.c:35:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
            count--;
                 ^
+Implementation/.vscode/unity/unity_internals.h:1055:0: error: The code contains unhandled character(s) (character code=194). Neither unicode nor extended ascii is supported. [preprocessorErrorDirective]
+© 2021 GitHub, Inc.
+^
 nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
 
