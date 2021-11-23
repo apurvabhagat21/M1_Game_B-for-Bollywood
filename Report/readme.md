@@ -1,1 +1,2 @@
-
+INTRODUCTION:
+To create a game in which user will be given intials of hero,heroine,song and the movie and the user will have to guess  all of them correctly in order to win the game.If the user guesses wrong the system will reduce the chance i.e. it will keep cancelling B then O & so on upto Y then it will provide a hint related to movie & then again if the user guesses wrong it will continue to reduce chance i.e. keep cancelling W,O,O,D.And at the last it will display the correct answer.The player needs to write the correct spellings.The Player will get total 9 chances.
