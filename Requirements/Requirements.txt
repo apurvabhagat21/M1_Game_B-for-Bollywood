@@ -9,6 +9,10 @@ LOW LEVEL REQUIREMENTS
 1.User should put the valid requirements.
 2.User should enter correct spellings.
 
+IDENTIFYING FEATURES
+1.Rules
+2.Restrictions
+
 SWOT ANALYSIS
 STRENGTH:As people have craze for bollywood it will cathch their attention.
 WEAKNESS:It has limited movies.
