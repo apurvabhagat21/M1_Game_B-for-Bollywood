@@ -88,5 +88,8 @@ Implementation/.vscode/test/testgamecd.c:35:17: style: Variable 'count' is assig
 Implementation/.vscode/unity/unity_internals.h:1055:0: error: The code contains unhandled character(s) (character code=194). Neither unicode nor extended ascii is supported. [preprocessorErrorDirective]
 © 2021 GitHub, Inc.
 ^
+3_Implementation/.vscode/test/test_fun.c:5:0: style: The function 'test_menu' is never used. [unusedFunction]
+
+^
 nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
 
