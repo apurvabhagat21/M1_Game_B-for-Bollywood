@@ -18,3 +18,12 @@ Like first chance will display B if guessed correctly message Bravo!You won! wil
 If the chances are reduced upto Y then a hint will be displayed.
 If all the chances are over then the player will lose the game. 
 
+## FOLDER STRUCTURE
+| Folder_Name |	Description |
+|---|---|
+|1_Requriments | Documents detailing requirements and research |
+|2_Design	Documents | Specifying design |
+|3_Implemenation |	All codes and Documentation |
+|4_Testplan	| Documents with test plans |
+|5_Report |	Documentation of whole project |
+|6_Images and videos |	All the images and viedos of this project |
