@@ -1,7 +1,7 @@
 # M1_Game_B-for-Bollywood
 ![Bollywood-written-on-scrabble-39848-pixahive](https://user-images.githubusercontent.com/74763172/143169807-fd8bc394-9a19-4251-9654-46e73b15aba1.jpg)
 
-<<<<<<< HEAD
+
 This game is a single player game.
 The player needs to select any no. between 1 to 9.
 The intitial letters of the hero,heroine,song & movie will be displayed.
