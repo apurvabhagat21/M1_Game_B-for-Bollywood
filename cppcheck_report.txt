@@ -1,3 +1,6 @@
+3_Implementation/.vscode/unity/unity_internals.h:1055:0: error: The code contains unhandled character(s) (character code=194). Neither unicode nor extended ascii is supported. [preprocessorErrorDirective]
+© 2021 GitHub, Inc.
+^
 Implementation/.vscode/src/gamecd.c:28:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
                   scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
                   ^
