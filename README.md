@@ -1,6 +1,9 @@
 # M1_Game_B-for-Bollywood
+
+## BADGES
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d06e02868b5c48f097db2f9398a01bc1)](https://app.codacy.com/gh/apurvabhagat21/M1_Game_B-for-Bollywood?utm_source=github.com&utm_medium=referral&utm_content=apurvabhagat21/M1_Game_B-for-Bollywood&utm_campaign=Badge_Grade_Settings)
 [![cppcheck-action-test](https://github.com/apurvabhagat21/M1_Game_B-for-Bollywood/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/apurvabhagat21/M1_Game_B-for-Bollywood/actions/workflows/cppcheck.yml)
+
 ![image](https://user-images.githubusercontent.com/74763172/143247919-60619757-740b-468e-b858-2ce67ba4e0f8.png)
 
 
