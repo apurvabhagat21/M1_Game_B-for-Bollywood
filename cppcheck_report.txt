@@ -1,3 +1,57 @@
+3_Implementation/.vscode/main.c:29:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+3_Implementation/.vscode/main.c:59:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+3_Implementation/.vscode/main.c:88:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+3_Implementation/.vscode/main.c:117:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+3_Implementation/.vscode/main.c:146:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+3_Implementation/.vscode/main.c:175:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+3_Implementation/.vscode/main.c:204:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+3_Implementation/.vscode/main.c:233:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+3_Implementation/.vscode/main.c:262:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+                  scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
+                  ^
+3_Implementation/.vscode/main.c:51:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+3_Implementation/.vscode/main.c:81:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+3_Implementation/.vscode/main.c:110:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+3_Implementation/.vscode/main.c:139:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+3_Implementation/.vscode/main.c:168:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+3_Implementation/.vscode/main.c:197:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+3_Implementation/.vscode/main.c:226:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+3_Implementation/.vscode/main.c:255:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
+3_Implementation/.vscode/main.c:284:17: style: Variable 'count' is assigned a value that is never used. [unreadVariable]
+           count--;
+                ^
 3_Implementation/.vscode/src/gamecd.c:28:19: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
                   scanf("%s\n%s\n%s\n%s",str1,str2,str3,str4);
                   ^
